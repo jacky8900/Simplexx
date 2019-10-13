@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="transmission.svg">
+   sodipodi:docname="todo.svg">
   <defs
      id="defs2987">
     <mask
@@ -18041,15 +18041,23 @@
          height="3.47953"
          id="rect3152-50" />
     </mask>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4043">
-      <path
-         id="path4045"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#72ffe2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41732287;marker:none;enable-background:accumulate"
-         d="m 26.214145,22.295312 c -0.235104,-0.0084 -1.53413,0.378497 -1.911964,0.857087 -1.139936,0.08261 -5.741015,3.216277 -8.439018,5.120548 l 0.0056,0.642813 c 1.229508,-0.47411 2.711617,-0.998658 3.290998,-0.994438 0.113842,7.07e-4 0.202078,2.1e-4 0.241742,0.04395 0.222129,0.261776 -0.737963,1.532235 -1.714176,2.96684 -0.255589,0.3756 -0.683601,0.989587 -0.930464,1.362619 l 0.230758,0.423048 c 1.342036,-1.680496 3.220927,-4.022351 3.688526,-4.09321 0.02518,-0.0035 0.0481,0.0135 0.06589,0.02194 0.08304,0.101496 -1.634272,2.857161 -3.013693,5.115899 l 0.483486,0.527438 c 0.670839,-0.922293 1.583905,-2.253125 2.288465,-3.225911 1.466166,-2.024337 2.751809,-3.914964 3.384397,-3.933812 0.0204,0 0.04698,0.0185 0.06589,0.02194 1.949046,0.01152 3.886223,4.91626 4.887906,7.978842 l 0.386478,-0.309007 c -0.480197,-3.424254 -1.604147,-9.065087 -3.955784,-10.63667 0.251961,-0.167937 0.26372,-1.0329 0.26372,-1.0329 l 0.681273,-0.857088 7.1e-5,7e-5 z m 5.928712,6.288008 c 0,4.497179 -3.645684,8.14286 -8.142858,8.14286 -4.49718,0 -8.142856,-3.645681 -8.142856,-8.14286 0,-4.497171 3.645676,-8.142854 8.142856,-8.142854 4.497174,0 8.142858,3.645683 8.142858,8.142854 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
+    <linearGradient
+       id="linear1"
+       x1="165.42599"
+       x2="991.25598"
+       y1="-112.307"
+       y2="-451.703"
+       gradientTransform="matrix(0.97784124,0,0,0.9905217,-269.50379,311.24548)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:rgb(16.862%,38.431%,75.294%)"
+         id="stop7" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(16.862%,38.431%,75.294%);stop-opacity:0"
+         id="stop9" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -18058,9 +18066,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9497478"
-     inkscape:cx="33.465915"
-     inkscape:cy="-2.1233553"
+     inkscape:zoom="9.5198274"
+     inkscape:cx="37.405621"
+     inkscape:cy="21.446531"
      inkscape:current-layer="g6168"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -18132,7 +18140,7 @@
            sodipodi:nodetypes="ssssssss" />
         <path
            transform="matrix(1.478022,0,0,1.4329897,-17.238617,-10.515465)"
-           style="fill:#d35f5f;stroke:none;fill-opacity:1"
+           style="fill:#00aad4;stroke:none;fill-opacity:1"
            d="m 41.142857,24.285715 c 0,7.653089 -5.820299,13.857143 -13,13.857143 -7.179702,0 -13,-6.204054 -13,-13.857143 0,-7.653088 5.820298,-13.857142 13,-13.857142 7.179701,0 13,6.204054 13,13.857142 z"
            id="path3763" />
         <g
@@ -18535,18 +18543,11 @@
             </g>
           </g>
         </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:30.41536713px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.98416102"
-           x="15.965681"
-           y="35.292725"
-           id="text1320"
-           transform="scale(0.96976704,1.0311755)"><tspan
-             sodipodi:role="line"
-             id="tspan1318"
-             x="15.965681"
-             y="35.292725"
-             style="fill:#f9f9f9;stroke-width:0.98416102">T</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke-width:1.31221473"
+           d="m 34.646043,12.907918 c -0.467507,0.102221 -0.898321,0.368848 -1.201758,0.743771 L 20.02456,29.206909 15.217536,24.337548 c -0.804112,-0.814537 -2.267316,-0.814537 -3.071428,-2.93e-4 -0.804111,0.814537 -0.804111,2.296722 2.94e-4,3.111258 l 6.409249,6.492701 1.669261,1.622999 1.468857,-1.758452 14.955265,-17.313319 c 1.212339,-1.337074 -0.247336,-3.949387 -2.003043,-3.58447 z m 0,0"
+           id="path20" />
       </g>
     </g>
   </g>
